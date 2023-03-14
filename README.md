@@ -5,6 +5,7 @@
 
 ## Results
 - Based on the Summary Statistics for June and December, 3 Key Differences between the two times of the year can be identified when observing the summary statistics from the tables below
+
 ![SurfsUp_Challenge_Screenshot_1](https://user-images.githubusercontent.com/120291854/225101719-e1a74c54-0f34-4058-91f7-f35b617e7011.png)
 ![SurfsUp_Challenge_Screenshot_2](https://user-images.githubusercontent.com/120291854/225101739-e280d82a-9823-4170-ae1f-439b3357bf27.png)
 
